@@ -1,3 +1,11 @@
+# Udemy Course: React Hooks
+
+- +API on ZEIT Now (as JSON server)
+- https://www.udemy.com/react-hooks/
+- https://hooks-api.lucasmatuszewski.now.sh
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
